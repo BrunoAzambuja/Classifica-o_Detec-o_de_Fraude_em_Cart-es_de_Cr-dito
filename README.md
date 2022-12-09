@@ -1,1 +1,1 @@
-# Classificacao_Deteccao_de_Fraude_em_Cartoes_de_Credito
+# Classificacao_deteccao_de_fraude_em_cartoes_de_credito
